@@ -1,4 +1,4 @@
-package com.mycompany.shapes;
+package shapes;
 import java.util.Scanner;
 
 public class ShapeMain {
