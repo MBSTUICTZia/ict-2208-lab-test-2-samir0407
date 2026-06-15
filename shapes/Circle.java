@@ -1,5 +1,5 @@
 
-package com.mycompany.shapes;
+package shapes;
 
 public class Circle extends Shape {
 
